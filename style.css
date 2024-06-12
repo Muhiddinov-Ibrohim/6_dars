@@ -1,0 +1,116 @@
+.imggg{
+width: 45px;
+height: 45px;
+margin-left: 900px;
+margin-top: 45px;
+}
+
+.imj{
+width: 175px;
+height: 57px;
+margin-left: 171px;
+}
+
+.navv{
+width: 152--0px;
+height: 140px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+background-color: #FFFFFF;
+border: 2px solid #DEDBDB;
+}
+
+.p{
+    margin-left: 1300px;
+    margin-top: -40px;
+    font-size: 36px;
+}
+
+.SendBtn{
+background-color: #F69E86;
+width: 102px;
+height: 37px;
+top: 868px;
+left: 785px;
+gap: 0px;
+border-radius: 15px;
+margin-left: 300px;
+border: 1px solid #F69E86;
+color: white;
+}
+
+.can{
+width: 550px;
+height: 550px;
+border-radius: 50px;
+border: 1px ;
+background-color: #ffffff;
+text-align: center;
+margin-left: 450px;
+border: 1px solid #DEDBDB
+}
+
+.in{
+width: 373px;
+height: 50px;
+border-radius: 15px;
+outline: none;
+border: 1px solid #b2b2b2;
+}
+
+.img1{
+    margin-left: -305px;
+    margin-top: 50px;
+}
+
+.img2{
+    margin-left: 350px;
+   margin-top: -200px;
+}
+
+h2{
+   margin-left: 100px;
+   margin-top: -50px; 
+   color: #F0400F;
+}
+
+
+.box{
+width: 373px;
+height: 50px;
+border-radius: 20px;   
+margin-left: 90px;
+background-color: #DEDBDB;
+}
+
+.student{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: -0px;
+    border: 1px solid white;
+}
+
+.parent{
+    color: black;
+    background-color: #DEDBDB;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 80px;  
+    border: 1px solid #DEDBDB;
+}
+
+
+.flex{
+    padding: 0 auto;
+}
+
+.qr{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
